@@ -5,7 +5,7 @@ To use the solver, first create a folder with the images of equations you want s
 Then on the command line, from the directory 'Math Expression Solver', you can run the command: 
 "python predictionUI.py pathToFolder", where pathToFolder is the path to the folder where you have saved the images
 
-E.g. if you run "python predictionUI.py sampleTests", the application will solve the expressions in the sample images provided
+Refer to videoDemo.mov for a video demonstration
 
 Details:
 
