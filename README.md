@@ -9,7 +9,7 @@ E.g. if you run "python predictionUI.py sampleTests", the application will solve
 
 Details:
 
-This program solves hand-written math expressions involving the symbols +, - x and fractions. It recognizes the expression in the image and then gives a step-by-step solution. This was inspired by a previous term project video for CMU's 15-112 course that I found online (listed under References).
+This program solves hand-written math expressions involving the symbols +, - x and fractions (including nested fractions). It recognizes the expression in the image and then gives a step-by-step solution. This was inspired by a previous term project video for CMU's 15-112 course that I found online (listed under References).
 
 Future Plans:
 
